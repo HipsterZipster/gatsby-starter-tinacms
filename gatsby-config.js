@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-tinacms-demo.netlify.com/`,
+    title: Joel's Tinacms Blog`,
+    author: `Joel Zipkin`,
+    description: `Gatsby +tinacms`,
+    siteUrl: `https://eager-kilby-07a214.netlify.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hipsterzipster`,
     },
   },
   plugins: [
