@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: Joel's Tinacms Blog`,
+    title: `Joel's Tinacms Blog`,
     author: `Joel Zipkin`,
     description: `Gatsby +tinacms`,
     siteUrl: `https://eager-kilby-07a214.netlify.com`,
